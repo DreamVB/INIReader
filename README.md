@@ -1,7 +1,7 @@
 # INIReader
 A small class for reading data from INI files.
 
-#Features
+# Features
 
 - Selections and Key names are no case sensitive.
 - Single comments lines only are supported at the moment.
