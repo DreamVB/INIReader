@@ -3,7 +3,7 @@ A small class for reading data from INI files.
 
 # Features
 
-- Selections and Key names are no case sensitive.
+- Selections and Key names are not case sensitive.
 - Single comments lines only are supported at the moment.
 - Can read <b>Integer</b>, <b>Float</b> and <b>Strings</b>
 - Only contains one header file making it easy to plug into your applications.
