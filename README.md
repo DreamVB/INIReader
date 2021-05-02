@@ -14,7 +14,7 @@ Easy to use example.
 	TINIRead ini;
   
 	//Open ini file.
-	ini.Open(argv[1]);
+	ini.Open("Filename.ini");
 
 	//Test if ini file was opened.
 	if (!ini.IsOpen){
